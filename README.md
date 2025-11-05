@@ -9,7 +9,7 @@ Directly on the script itself I recommend to study [Mounting Loopback Device (lo
 [Как установить MikroTik RouterOS (CHR) на VPS VDS](https://wiki.dieg.info/mikrotik_cloud_hosted_router)
 
 ```bash
-wget https://raw.githubusercontent.com/rakibulh946/rakibulh946/chr_install/main/chr_install
+wget https://raw.githubusercontent.com/rakibulh946/chr_install/main/chr_install
 ```
 ```bash
 bash chr_install
